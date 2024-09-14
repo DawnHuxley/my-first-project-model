@@ -1,2 +1,3 @@
 # my-first-project
-For data visualization
+MODEL
+https://colab.research.google.com/drive/1WfvgnArfApDvzArrZUlfTXDhEQyzDjtQ#scrollTo=zPrncbUa07gv
